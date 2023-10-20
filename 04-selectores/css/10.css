@@ -1,0 +1,7 @@
+a[href$=".com"] { /** ^= es inicia con */
+    color: red;
+}
+
+#telefono {
+    border: 5px solid red;
+}
